@@ -1,9 +1,9 @@
 # Analizador-Semantico
 Analizador Lexico, Sintactico, Semantico, Derivacion semantica y arbol semantico en Visual basic
 
-El proyecto fue elaborado programado solo por Juan Jose Castañeda Herrera
+El proyecto fue elaborado programado por Juan Jose Castañeda Herrera
 
-Documentado (Solo Comentarios) por Pamela Zafras Santes
+Documentado por Pamela Zafras Santes
 
 Diseño eleborado por Juan Jose Castañeda Herrera y asistido por Pamela Zafras Santes
 
